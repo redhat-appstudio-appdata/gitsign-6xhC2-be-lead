@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/securesign-tenant/gitsign/gitsign@sha256:8ab63cf302c6126013d6cb9dd4113bdede3e69789e7ab51a196c0acffed4127f
+      - image: quay.io/redhat-user-workloads/securesign-tenant/gitsign/gitsign@sha256:7619655b629c99b063e8dbdc6907f037103d4ef3241e9d072d952e71141e1276
         name: container-image
         resources: {}
 status: {}
